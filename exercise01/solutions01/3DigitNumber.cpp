@@ -9,7 +9,7 @@ using namespace std;
 int main()
 {
 	cout << "Please enter a 3 digit number: ";
-	
+
 	int number;
 	cin >> number;
 
@@ -24,6 +24,6 @@ int main()
 
 	cout << "Result: " << sum << endl;
 
-    return 0;
+ 	return 0;
 }
 
