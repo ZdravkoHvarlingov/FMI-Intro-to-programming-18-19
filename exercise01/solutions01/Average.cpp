@@ -32,6 +32,7 @@ int main()
 	sum += number;
 
 	cout << "Average: " << sum / 5 << endl;
-    return 0;
+    	
+	return 0;
 }
 
