@@ -1,0 +1,15 @@
+Ivan Ivanov 18 Sofia Yes
+Kiril Lirik 22 Burgas Yes
+Zdravko Hvarlingov 21 Sofia No
+Ivelina Georgieva 38 Blagoevgrad Yes
+Iveta Raleva 29 Razgrad No
+Petko Georgiev 65 Varna No
+Viktor Petkov 23 Sofia Yes
+Viktoria Todorova 22 Varna Yes
+Iordan Nikolov 55 Vidin No
+Dimitrina Nikolova 47 SlunchevBrqg Yes
+Anton Antonov 32 Sofia No
+Qsen Andonov 15 Pavlikeni Yes
+Ivan Navi 27 Mezdra No
+Vonaktep Petkanov 33 Pleven Yes
+Naiden Naidenov 18 Pazardzik Yes
